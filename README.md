@@ -3,7 +3,7 @@
 <h3>About me</h3>
 <ul>
   <li>热爱编程，迎接挑战</li>
-  <li>ww</li>
+  <li>www</li>
 </ul>
 
 <h1 align="center">Languages and Tools</p>
